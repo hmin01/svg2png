@@ -4,6 +4,6 @@
     "dependencies": {
         "@types/node": "^13.13.5",
         "@types/sharp": "^0.25.0",
-        "sharp": "^0.25.2"
+        "sharp": "^0.30.5"
     }
 }
